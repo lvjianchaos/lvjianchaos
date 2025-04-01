@@ -1,12 +1,40 @@
-# Hi there 👋，我是 Chaos
+# Hi there 👋, I'm Chaos!
 
->  欢迎来到我的 GitHub 主页！
+> Welcome to my GitHub Profile! 🚀
 
-我是一名正在探索计算机世界的学生，目前聚焦于Web开发，希望能写出有意思的项目！
+I'm a student currently exploring the vast world of Computer Science. My main focus is **Web Development**, and I'm passionate about building interesting and meaningful projects!
 
-我爱好算法比赛、Java后端以及Vue前端的学习！除此之外，我热衷于ACGN…………
+---
 
-[<img src="https://github-readme-stats.vercel.app/api?username=lvjianchaos&show_icons=true&theme=radical" alt="GitHub Stats" style="zoom: 80%;" />](https://github.com/lvjianchaos) 
+## 🌟 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvjianchaos&layout=compact)](https://github.com/lvjianchaos) 
+*   👨‍💻 Student passionate about Computer Science and coding.
+*   🔭 Currently diving deep into **Web Development** (both Frontend and Backend).
+*   🧠 Enjoy the challenge of **Algorithm Competitions** and problem-solving.
+*   🎮 Enthusiast of **ACGN** culture!
 
+## 🛠️ Tech Stack & Skills
+
+*   **Backend:** Java (Actively learning frameworks like Spring Boot)
+*   **Frontend:** Vue.js (Exploring modern frontend development)
+*   **Algorithms & Data Structures:** Continuously practicing and improving.
+*   **Databases:** MySQL, PostgreSQL, Redis
+*   **Tools:** Git, Maven (Currently learning Docker, Linux, etc.)
+
+## 🌱 What I'm Currently Learning
+
+*   Deep diving into Spring Boot internals
+*   Exploring Vue 3 Composition API and new features
+*   Practicing specific algorithm patterns for contests
+
+---
+
+## 📊 GitHub Status
+
+[<img src="https://github-readme-stats.vercel.app/api?username=lvjianchaos&show_icons=true&theme=radical" alt="Chaos's GitHub Stats" style="zoom: 80%;" />](https://github.com/lvjianchaos)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvjianchaos&layout=compact&theme=radical)](https://github.com/lvjianchaos) 
+
+---
+
+Thanks for visiting! ✨
