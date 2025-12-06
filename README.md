@@ -1,40 +1,43 @@
-# Hi there 👋, I'm Chaos!
+# 🌸 Hi, this is Chaos (：
 
-> Welcome to my GitHub Profile! 🚀
+<img src="https://cdn.jsdelivr.net/gh/lvjianchaos/Images/note/banner.png" width="100%" style="border-radius: 2em;"/>
 
-I'm a student currently exploring the vast world of Computer Science. My main focus is **Web Development**, and I'm passionate about building interesting and meaningful projects!
+- 😉 I am currently a 20-year-old undergraduate student at Wuhan University of Technology.
+- 🍆 Dreaming to be a full-stack developer.
+- 💘 I love ACGN, especially the yuri element, and have a keen interest in literature, history and Western philosophy.
 
----
+## 📬 Contact
 
-## 🌟 About Me
+<p align="center">
+  <a href="mailto:2277146577@qq.com">☎️ Email</a> | 
+  <a href="https://blog.chaos-ljc.top" target="_blank" rel="noopener noreferrer">💻 Blog</a> | 
+  <a href="https://space.bilibili.com/475203421" target="_blank" rel="noopener noreferrer">📺 BiliBili</a>
+</p>
 
-*   👨‍💻 Student passionate about Computer Science and coding.
-*   🔭 Currently diving deep into **Web Development** (both Frontend and Backend).
-*   🧠 Enjoy the challenge of **Algorithm Competitions** and problem-solving.
-*   🎮 Enthusiast of **ACGN** culture!
 
-## 🛠️ Tech Stack & Skills
 
-*   **Backend:** Java (Actively learning frameworks like Spring Boot)
-*   **Frontend:** Vue.js (Exploring modern frontend development)
-*   **Algorithms & Data Structures:** Continuously practicing and improving.
-*   **Databases:** MySQL, PostgreSQL, Redis
-*   **Tools:** Git, Maven (Currently learning Docker, Linux, etc.)
+## 🖥️ Programming Languages
 
-## 🌱 What I'm Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue-brightgreen.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-c-red?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-*   Deep diving into Spring Boot internals
-*   Exploring Vue 3 Composition API and new features
-*   Practicing specific algorithm patterns for contests
 
----
 
-## 📊 GitHub Status
 
-[<img src="https://github-readme-stats.vercel.app/api?username=lvjianchaos&show_icons=true&theme=radical" alt="Chaos's GitHub Stats" style="zoom: 80%;" />](https://github.com/lvjianchaos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvjianchaos&layout=compact&theme=radical)](https://github.com/lvjianchaos) 
 
----
+<div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+  <img height="300px" src="https://cdn.jsdelivr.net/gh/lvjianchaos/Images/note/avatar.png" style="border-radius: 1em;" />
+  <img height="300px" src="https://github-readme-stats-mauve-seven-77.vercel.app/api/top-langs/?username=lvjianchaos&theme=tokyonight" />
+</div>
 
-Thanks for visiting! ✨
+
+<br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvjianchaos&theme=tokyonight" />
