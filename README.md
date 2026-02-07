@@ -12,12 +12,10 @@
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/lvjianchaos/Images/note/banner.png" style="width:35%;border-radius:20px" />
     <br />
-    <a href="mailto:2277146577@qq.com">☎️ Email</a> | 
- 	<a href="https://blog.chaos-ljc.top" target="_blank" rel="noopener noreferrer">💻 Blog</a> | 
-  	<a href="https://space.bilibili.com/475203421" target="_blank" rel="noopener noreferrer">📺 BiliBili</a>
+    <a href="mailto:2277146577@qq.com">📫Email</a> |
+ 	<a href="https://blog.chaos-ljc.top" target="_blank" rel="noopener noreferrer">💻Blog</a> |
+  	<a href="https://space.bilibili.com/475203421" target="_blank" rel="noopener noreferrer">📺BiliBili</a>
 </p>
-
-
 
 ## 🖥️ Tech Stack
 
@@ -32,7 +30,6 @@
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
-
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
   <img height="280px" src="https://cdn.jsdelivr.net/gh/lvjianchaos/Images/note/avatar.png" style="border-radius: 10px;" />
   <img height="280px" src="https://github-readme-stats-mauve-seven-77.vercel.app/api/top-langs/?username=lvjianchaos&theme=tokyonight" />
@@ -56,6 +53,5 @@
 
 <div align="center">
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvjianchaos&theme=tokyonight" />
-	<br />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=565E73&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Do%20not%20go%20gentle%20into%20that%20good%20night.&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </div>
