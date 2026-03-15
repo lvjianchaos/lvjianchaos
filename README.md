@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-  <img height="280px" src="https://cdn.jsdelivr.net/gh/lvjianchaos/Images/note/avatar.png" style="border-radius: 10px;" />
   <img height="280px" src="https://github-readme-stats-mauve-seven-77.vercel.app/api/top-langs/?username=lvjianchaos&theme=tokyonight" />
+  <img height="280px" src="https://github-readme-stats-mauve-seven-77.vercel.app/api?username=lvjianchaos&show_icons=true&theme=transparent" />
 </div>
 
 #### Back/Front Frameworks
