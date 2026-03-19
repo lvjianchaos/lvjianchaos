@@ -10,7 +10,7 @@
 ## 📬 Contact
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/lvjianchaos/Images/note/banner.png" style="width:35%;border-radius:20px" />
+    <img src="https://cdn.jsdelivr.net/gh/lvjianchaos/Images/banner.png" style="width:35%;border-radius:20px" />
     <br />
     <a href="mailto:2277146577@qq.com">📫Email</a> |
  	<a href="https://blog.chaos-ljc.top" target="_blank" rel="noopener noreferrer">💻Blog</a> |
